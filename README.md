@@ -5,7 +5,7 @@ Before this course my only unit testing experience was a class in college. My pr
 
 So now I have an in depth understanding of unit tests in general, unit test conventions, and experience with NUnit.
 
-Certificate located in project folder.
+Certificate located in root folder.
 
 Link To Course: https://www.udemy.com/course/unit-testing-csharp/
 
