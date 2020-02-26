@@ -6,14 +6,14 @@ Before this course my only unit testing experience was a class in college. My pr
 So now I have an in depth understanding of unit tests in general, unit test conventions, and experience with NUnit.
 
 Course Curriculum
--Learn unit testing from scratch
--Tips and tricks to write clean, maintainable and trustworthy tests
--Write loosely-coupled and testable code
--Refactor legacy code towards testable code
--Understand and implement dependency injection
--Use mocks to isolate code from external dependencies
--Apply the unit testing best practices
--Learn the anti-patterns to avoid
+ * Learn unit testing from scratch
+ * Tips and tricks to write clean, maintainable and trustworthy tests
+ * Write loosely-coupled and testable code
+ * Refactor legacy code towards testable code
+ * Understand and implement dependency injection
+ * Use mocks to isolate code from external dependencies
+ * Apply the unit testing best practices
+ * Learn the anti-patterns to avoid
 
 Certificate located in root folder.
 
