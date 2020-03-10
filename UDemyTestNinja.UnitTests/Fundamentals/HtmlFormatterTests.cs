@@ -1,7 +1,7 @@
 ﻿
 
 using NUnit.Framework;
-using TestNinja.Fundamentals;
+using UDemyTestNinja.Fundamentals;
 
 namespace UDemyTestNinja.UnitTests
 {

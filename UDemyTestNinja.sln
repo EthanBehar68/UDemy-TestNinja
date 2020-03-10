@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDemyTestNinja", "TestNinja\UDemyTestNinja.csproj", "{7328740E-4B78-464F-8352-65D887F2145F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDemyTestNinja", "UDemyTestNinja\UDemyTestNinja.csproj", "{7328740E-4B78-464F-8352-65D887F2145F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDemyTestNinja.UnitTests", "UDemyTestNinja.UnitTests\UDemyTestNinja.UnitTests.csproj", "{92B312DB-90B7-458F-B59F-51FE6E9F6078}"
 EndProject

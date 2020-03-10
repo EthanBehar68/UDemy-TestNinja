@@ -1,7 +1,7 @@
 ﻿using Moq;
 using NUnit.Framework;
 using System.Net;
-using TestNinja.Mocking;
+using UDemyTestNinja.Mocking;
 
 namespace UDemyTestNinja.UnitTests.Mocking
 {

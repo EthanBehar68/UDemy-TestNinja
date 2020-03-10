@@ -1,4 +1,4 @@
-﻿using TestNinja.Mocking;
+﻿using UDemyTestNinja.Mocking;
 
 namespace UDemyTestNinja.UnitTests
 {
